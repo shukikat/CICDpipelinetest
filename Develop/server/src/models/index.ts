@@ -1,3 +1,9 @@
 import Question from './Question.js';
 
-export default { Question };
+const models= {
+    Question
+};
+
+//export default { Question };
+
+export default models;
